@@ -1,0 +1,14 @@
+/Users/tshepomatshisevhe/Desktop/Projects/HelloWorldApp/HelloWorldApp/bin/Debug/net7.0/HelloWorldApp
+/Users/tshepomatshisevhe/Desktop/Projects/HelloWorldApp/HelloWorldApp/bin/Debug/net7.0/HelloWorldApp.deps.json
+/Users/tshepomatshisevhe/Desktop/Projects/HelloWorldApp/HelloWorldApp/bin/Debug/net7.0/HelloWorldApp.runtimeconfig.json
+/Users/tshepomatshisevhe/Desktop/Projects/HelloWorldApp/HelloWorldApp/bin/Debug/net7.0/HelloWorldApp.dll
+/Users/tshepomatshisevhe/Desktop/Projects/HelloWorldApp/HelloWorldApp/bin/Debug/net7.0/HelloWorldApp.pdb
+/Users/tshepomatshisevhe/Desktop/Projects/HelloWorldApp/HelloWorldApp/obj/Debug/net7.0/HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tshepomatshisevhe/Desktop/Projects/HelloWorldApp/HelloWorldApp/obj/Debug/net7.0/HelloWorldApp.AssemblyInfoInputs.cache
+/Users/tshepomatshisevhe/Desktop/Projects/HelloWorldApp/HelloWorldApp/obj/Debug/net7.0/HelloWorldApp.AssemblyInfo.cs
+/Users/tshepomatshisevhe/Desktop/Projects/HelloWorldApp/HelloWorldApp/obj/Debug/net7.0/HelloWorldApp.csproj.CoreCompileInputs.cache
+/Users/tshepomatshisevhe/Desktop/Projects/HelloWorldApp/HelloWorldApp/obj/Debug/net7.0/HelloWorldApp.dll
+/Users/tshepomatshisevhe/Desktop/Projects/HelloWorldApp/HelloWorldApp/obj/Debug/net7.0/refint/HelloWorldApp.dll
+/Users/tshepomatshisevhe/Desktop/Projects/HelloWorldApp/HelloWorldApp/obj/Debug/net7.0/HelloWorldApp.pdb
+/Users/tshepomatshisevhe/Desktop/Projects/HelloWorldApp/HelloWorldApp/obj/Debug/net7.0/HelloWorldApp.genruntimeconfig.cache
+/Users/tshepomatshisevhe/Desktop/Projects/HelloWorldApp/HelloWorldApp/obj/Debug/net7.0/ref/HelloWorldApp.dll
